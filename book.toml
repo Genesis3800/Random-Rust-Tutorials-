@@ -1,0 +1,6 @@
+[book]
+authors = ["Genesis3800"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Random Rust Tutorials"
